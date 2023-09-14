@@ -1,0 +1,13 @@
+Install the required special dependencies by running the below commands in command prompt:
+1. BeautifulSoup4: pip install beautifulsoup4
+2. Requests library: pip install requests
+3. Openpyxl library: pip install openpyxl
+4. Regex library(i.e., re): pip install regex
+5. Strings library: pip install strings
+6. NLTK library: pip install nltk
+
+Run the following code in a python file:
+1. English pronunciation library: 
+
+    import nltk
+    nltk.download('cmudict')

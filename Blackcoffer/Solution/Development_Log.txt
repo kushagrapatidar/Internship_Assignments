@@ -1,0 +1,52 @@
+.LOG
+
+18:20 17-08-2023
+Analysing the objective, flow & possible solutions to the test assignement by Blackcoffer.
+
+14:20 18-08-2023
+Commencing developement of Text Extraction.
+
+16:20 18-08-2023
+Completed the development of Text Extraction.
+Issues to be raised:
+1) Missing article of URL_IDs: 11668, 17671.4
+
+Proposed resolution of issues:
+1) Assigning all the analytical values to 0.
+
+14:00 19-08-2023
+Commencing development of Text Analysis.
+
+16:34 19-08-2023
+Completed the development of Text Analysis: Cleaning & Tokenization.
+
+16:20 20-08-2023
+Commencing development of Text Analysis: Assignment of Negative and Positive words.
+
+17:08 20-08-2023
+1) Completed the development of Text Analysis: Assignement of Negative and Positive words.
+2) Commencing development of Text Analysis: Calculation of Analysis Variables.
+
+10:30 20-08-2023
+1) Completed the development of Text Analysis: Calculation of Analysis Variables.
+2) Commencing development of File saving and Re-formatting.
+
+01:08 21-08-2023
+1) Completed the development of File saving and Re-formatting.
+2) Commencing final test run.
+
+01:09 21-08-2023
+1) Final test run completed: Result--> Fail
+2) Commencing Bug detection and De-buggging.
+
+02:32 21-08-2023
+1) Completed debugging.
+2) Commencing Final run.
+
+02:34 21-08-2023
+1) Completed Final run: Result--> Successful
+2) Generating Readme.md
+
+04:33 21-08-2023
+Generated Readme.md
+Project Concluded
